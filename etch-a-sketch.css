@@ -1,0 +1,21 @@
+#container {
+    padding: 50px;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 50px;
+}
+
+button {
+    text-decoration: none;
+    background-color: aquamarine;
+    border: none;
+    padding: 15px;
+    border-radius: 7px;
+    color: rgb(82, 2, 82);
+    font-weight: bold;
+    font-size: x-large;
+}
